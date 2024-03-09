@@ -1,3 +1,10 @@
+
+[screen-capture (4).webm](https://github.com/jeesmariyatony123/Radiant-Riches-LLC-assessment/assets/153613522/f44601a2-80ef-4255-b6e3-d776adf32f50)
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
